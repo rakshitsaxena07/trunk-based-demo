@@ -16,7 +16,7 @@ Trunk-Based Development is a branching strategy where:
 
 ---
 
-##Strategy
+## Strategy
 Work directly on trunk
 Small, safe changes are committed directly to `main`.
 
